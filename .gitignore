@@ -1,0 +1,12 @@
+# CIDX index directories - never commit these
+.code-indexer/
+.code-indexer
+**/.code-indexer/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
