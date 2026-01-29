@@ -3,6 +3,9 @@
 .code-indexer
 **/.code-indexer/
 
+# CIDX config overrides - local testing only
+.code-indexer-override.yaml
+
 # Python cache
 __pycache__/
 *.pyc
